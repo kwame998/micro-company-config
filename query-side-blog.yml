@@ -14,7 +14,7 @@ logging:
   level:
     root: INFO
     org.springframework: INFO
-    org.axonframework: INFO
+    org.axonframework: DEBUG
     com.idugalic: DEBUG
     
 axon:
